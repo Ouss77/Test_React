@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: aqua;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    background-color: rgb(179, 0, 255);
+
 }
+ body{
+  background-image: url(C:\Users\sousou\Desktop\first_react\public\pic2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;  
+ }
+ .my-component{
+  margin-left: 20%;
+  margin-right: 20%;
+ }
